@@ -41,10 +41,6 @@ function getAge(birthdayValve){
         age --
     }
 
-
-
-
-
 return age
 
 }
